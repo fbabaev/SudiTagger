@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 /**
- * PS5
  * Implements Hidden Markov Models to determine the most appropriate transitions for parts of speech
  * Dartmouth CS 10, Winter 2024.
  * Authors: Firdavskhon Babaev & Dhanush Balaji.
