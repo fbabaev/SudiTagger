@@ -23,5 +23,9 @@ This project builds a Part-of-Speech (POS) tagger using a Hidden Markov Model (H
    - Once trained, the model can be used to tag new sentences.
    - The input is a sentence, and the output is the same sentence with each word labeled with its corresponding POS tag.
 
+### Input Sentence:
+```text
+Will you cook the fish                                                                                                                  
 
-
+### Expected Outcome
+Will/MOD you/PRO cook/V the/DET fish/N
