@@ -27,5 +27,8 @@ This project builds a Part-of-Speech (POS) tagger using a Hidden Markov Model (H
 ```text
 Will you cook the fish                                                                                                                  
 
-### Expected Outcome
+## Expected Outcome
+
+```text
 Will/MOD you/PRO cook/V the/DET fish/N
+
